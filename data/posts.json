@@ -1,0 +1,284 @@
+{
+  "items": [
+    {
+      "id": "0a26fa3f-5ddb-409a-9dff-e6b601165db5",
+      "type": "post",
+      "sys": {
+        "type": "Entry",
+        "createdAt": "2021-06-06T09:38:23.891Z"
+      },
+      "fields": {
+        "title": "When Will ETH Reach a New All-Time High?",
+        "shortText": "Ethereum (ETH) has been moving downwards since May 12, when it reached an all-time high price.",
+        "myText": "Despite the ongoing bounce, there are not enough signs to predict a bullish reversal.\nOngoing decrease\n\nETH has been moving downwards since reaching an all-time high price on May 12. The decrease has been sharp, culminating with a low of $1730 on May 23. This amounted to a 60.50% decrease in only 11 days. \n\nLong-term indicators are bearish. While the RSI has generated hidden bullish divergence, both the MACD & Stochastic oscillator are moving downwards, the latter having made a bearish cross (red icon).\n\nIn the weekly time-frame, the main support level is found at $1400, which is the previous all-time high resistance area.\n\nThe daily chart shows the ongoing bounce since May 19.\n\nHowever, ETH has been thrice rejected by the $2850 resistance area, which coincides with the 0.382 Fib retracement resistance level.\n\nDespite showing some bullish signs, technical indicators are still bearish. \n\nThe RSI is below 50 and the Stochastic oscillator is decreasing, despite having made a bullish cross. The MACD is also negative.\nWave count\n\nThe wave count indicates that ETH is in a long-term wave four (red), of a bullish impulse that began in Dec. 2020. \n\nWhile it has bounced at the 0.618 Fib retracement support level at $1,775, it is not yet clear if wave four has reached its bottom. \n\nThe next support area is at $1,030, the 0.786 Fib retracement support level. \n\nThe shorter-term chart shows that the decrease from the all-time highs is a five wave structure. Therefore, it means that it is likely only the first part of a larger corrective structure, which would complete the previously outlined wave four. \n\nAs a result, an increase towards $3370-$3814 could transpire before another low is reached.\n\nSource: https://beincrypto.com/when-will-eth-reach-a-new-all-time-high/ ",
+        "author": "00dc580b-90a2-4ef7-a6fe-4cc764e1a564",
+        "file": {
+          "metadata": {
+            "tags": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "3cstkrd87r8x"
+              }
+            },
+            "id": "6aiM55DXLmM8XVUzOPPowy",
+            "type": "Asset",
+            "createdAt": "2021-06-15T15:05:12.034Z",
+            "updatedAt": "2021-06-15T15:05:12.034Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "eth all time h",
+            "file": {
+              "url": "//images.ctfassets.net/3cstkrd87r8x/6aiM55DXLmM8XVUzOPPowy/9557df8eafc8fd8af0938ab9cbf71003/eth_all_time_h.jpg",
+              "details": {
+                "size": 62325,
+                "image": {
+                  "width": 500,
+                  "height": 300
+                }
+              },
+              "fileName": "eth_all_time_h.jpg",
+              "contentType": "image/jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "3d5a9a64-7717-4892-b308-79a7672bc922",
+      "type": "post",
+      "sys": {
+        "createdAt": "2021-06-15T15:11:01.278Z"
+      },
+      "fields": {
+        "title": "Lack of crypto regulations alarming, says Italy's stock market regulator",
+        "myText": "Crypto growing to a $1.6 trillion market without adequate regulations is a major worry for the head of Italy’s stock market oversight agency.\n\nPaolo Savona, the chairman of the Commissione Nazionale per le Società e la Borsa (Consob) — Italy’s securities regulator — has raised alarms over crypto’s growing popularity in the absence of firm regulatory standards.\n\nAccording to Reuters, Savona made this position known while delivering Consob’s annual report on Monday stating that the lack of clear-cut regulations creates an opportunity for criminals to utilize crypto for illegal activities. According to Savona:\n\n    “Without proper oversight, there could be a worsening in market transparency, the basis of legality and rational choice for (market) operators.”\n\nDespite several research studies indicating that crypto criminality only accounts for a minute proportion of global cryptocurrency commerce, Savona has joined the chorus of financial regulators pushing the virtual currency crimes agenda.\n\nEl Salvador’s recent parliamentary vote to adopt Bitcoin (BTC) as legal tender has drawn criticism from several legacy finance gatekeepers. In the Netherlands, one Dutch official has called for a blanket ban on cryptocurrencies.\n\nSpeaking during the CNBC Squawk Box program earlier on Monday, Mohamed El-Erian, chief economic adviser at Allianz alluded to the emerging narrative, calling it “a tug of war between adoption and regulation.”\n\nFor Savona, criminals using crypto for money laundering and tax evasion are not the only problem. According to the Consob chairman, the proliferation of cryptocurrencies poses an existential threat to the ability of central banks to facilitate the sovereign monetary policies of their respective nations.\n\nRelated: Dutch official calls for complete ban on Bitcoin\n\nGiven the extent of Savona’s crypto fears, the securities regulator panned the slow pace of activities concerning cryptocurrency regulations at the European Union level. The Consob chief stated that Italy could be forced to establish its own regulatory framework if the European Union takes too long to develop a region-wide set of laws.\n\nHowever, not all the happenings on the crypto regulatory front are negative for the industry. Indeed, reports coming out of India suggest that the authorities have moved away from plans for a total ban towards more nuanced regulations. Even in the Netherlands, Dutch finance minister Wopke Hoekstra has spoken in favor of supervision instead of the prohibition of cryptocurrencies.\n\nSource: https://cointelegraph.com/news/lack-of-crypto-regulations-alarming-says-italy-s-stock-market-regulator",
+        "file": {
+          "metadata": {
+            "tags": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "3cstkrd87r8x"
+              }
+            },
+            "id": "6Bjmp7sJYLst4o7p1IabFD",
+            "type": "Asset",
+            "createdAt": "2021-06-15T15:10:53.678Z",
+            "updatedAt": "2021-06-15T15:10:53.678Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "lack",
+            "file": {
+              "url": "//images.ctfassets.net/3cstkrd87r8x/6Bjmp7sJYLst4o7p1IabFD/f4d9f9a493d3bbf2f107aaca98cd45b1/lack.jpg",
+              "details": {
+                "size": 82175,
+                "image": {
+                  "width": 500,
+                  "height": 333
+                }
+              },
+              "fileName": "lack.jpg",
+              "contentType": "image/jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "4e92ed3d-c3f8-4398-8d67-5404e0e0d233",
+      "type": "post",
+      "sys": {
+        "createdAt": "2021-06-06T09:50:02.534Z",
+        "locale": "en-US"
+      },
+      "fields": {
+        "title": "Bitcoin price hits $40K as Paul Tudor Jones slams Fed inflation claims",
+        "myText": "A stunning BTC price surge accompanies concerns over the United States Federal Reserve's \"institutional credibility.\"\nBTC price breaks out past $40,000\n\nData from Cointelegraph Markets Pro and TradingView showed BTC/USD gaining 3% in under an hour, reaching $40,600 on Bitstamp.\n\nThe largest cryptocurrency capitalized on the upside that resulted from a new positive tweet by Elon Musk concerning Tesla possibly accepting BTC in the future.\n\nEarlier, Cointelegraph reported on traders betting on a leg up to around $47,000 before a correction.\n\nA look at buy and sell positions on major exchange Binance shows support at $38,000, with resistance at $40,500 — the next hurdle for bulls.\nPaul Tudor Jones advocates 5% BTC allocation\n\nBitcoin reached a $2 trillion market capitalization because of a \"dichotomy\" in Federal Reserve policy that \"questions\" its credibility, said famous trader Paul Tudor Jones.\n\nIn an interview with CNBC on June 14, the founder of Tudor Investment Corporation sounded the alarm over advancing inflation.\n\nAfter last week's consumer price index (CPI) report showed that United States inflation has hit a 13-year high, Bitcoin's deflationary nature has rarely looked so appealing.\n\nFor Jones, the idea that higher inflation is just temporary due to recent events — as suggested by the Fed and central banks in general — is a myth.\n\n\"It's somewhat disingenuous to say that inflation is transitory — for them to say inflation is transitory,\" he told CNBC's Squawk Box segment.\n\nToday's environment is entirely different from those that saw episodes of inflation in the past, such as in 2013. As such, there is little sense in the Fed applying the same forecasts, Jones believes.\n\nJones noted that the CPI was much lower then, while now, unemployment levels and job offers also roughly equal each other.\n\nRelated: Paul Tudor Jones says Bitcoin is 'like investing early in Apple or Google'\n\nMeanwhile, gold and Bitcoin have provided a refuge for many. Despite the precious metal vastly underperforming Bitcoin in terms of gains, it remains near record highs.\n\n\"When you look at the Fed today and the Fed back then, you wonder: How can you have such wildly different policy views on what constitutes the right levels for employment, the right levels for inflation?\" he continued.\n\n    \"How can you have that with an eight-year timeframe? It's almost like a split personality. And you wonder why Bitcoin has a $2 trillion market cap and gold's at $1,865 an ounce. And the reason why is because you have this dichotomy in policy that again questions — questions —  the institutional credibility of something.\"\n\nUltimately, a 5% Bitcoin allocation is one of the only things he recommends to those seeking portfolio advice.\n\n\"I say, 'OK, listen. The only thing that I know for certain is I want to have 5% in gold, 5% in Bitcoin, 5% in cash, 5% in commodities at this point in time,'\" he added.\n\nSource: https://cointelegraph.com/news/bitcoin-price-hits-40k-as-paul-tudor-jones-slams-fed-inflation-claims \n",
+        "author": "705c7220-59da-48a4-b3af-e736d54e08ce",
+        "file": {
+          "metadata": {
+            "tags": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "3cstkrd87r8x"
+              }
+            },
+            "id": "4C3F28vTvMsoanMsd5Bm9S",
+            "type": "Asset",
+            "createdAt": "2021-06-15T15:02:23.945Z",
+            "updatedAt": "2021-06-15T15:02:23.945Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "Jones",
+            "file": {
+              "url": "//images.ctfassets.net/3cstkrd87r8x/4C3F28vTvMsoanMsd5Bm9S/89ae3346690ea2a456e07357e7faf2f6/Jones.jpg",
+              "details": {
+                "size": 106930,
+                "image": {
+                  "width": 500,
+                  "height": 333
+                }
+              },
+              "fileName": "Jones.jpg",
+              "contentType": "image/jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "cde6841c-e022-48cb-a658-c3fc1764930c",
+      "type": "post",
+      "sys": {
+        "createdAt": "2021-06-06T09:09:00.833Z"
+      },
+      "fields": {
+        "title": "MicroStrategy completes $500 million offering",
+        "shortText": "MicroStrategy wants to by Bitcoin with the value of $500 million.",
+        "myText": "Software company MicroStrategy has today completed its $500 million offering of secured notes, according to a statement. The company said it plans to use these proceeds, which it estimates at $488 million — after discounts, comissions and expenses — to buy more bitcoin.\n\nThe offering was of secured notes due 2028 that bear interest at an annual rate of 6.125%.\n\nThe company already holds 92,079 bitcoin, which is under the purview of its newly formed subsidiary MacroStrategy. The price of bitcoin is currently $40,700, suggesting that MicroStrategy will be able to buy around 11,990 more bitcoin, taking it well above the 100,000 mark.\n\nMicroStrategy announced this latest offering on June 7, initially planning to raise $400 million before it was upped to $500 million. According to reports, the company had more than $1.6 billion worth of orders for the notes, \"including interest from a large number of hedge funds.\"\n\nSource: https://www.theblockcrypto.com/linked/108334/microstrategy-completes-500-million-offering-plans-to-buy-more-bitcoin?utm_source=cryptopanic&utm_medium=rss",
+        "author": "705c7220-59da-48a4-b3af-e736d54e08ce",
+        "data": {
+          "Ingredients": [
+            {
+              "name": "Pepper",
+              "amount": "3g"
+            },
+            {
+              "name": "Pasta",
+              "amount": "1 Pound"
+            }
+          ]
+        },
+        "file": {
+          "metadata": {
+            "tags": []
+          },
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "3cstkrd87r8x"
+              }
+            },
+            "id": "4D1KpemPXJVVqOLAztCYwN",
+            "type": "Asset",
+            "createdAt": "2021-06-15T14:37:25.832Z",
+            "updatedAt": "2021-06-15T14:37:25.832Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 1,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "MicroStrategy",
+            "file": {
+              "url": "//images.ctfassets.net/3cstkrd87r8x/4D1KpemPXJVVqOLAztCYwN/503f6033398ec8f0efa2075cda8fb322/MicroStrategy.jpg",
+              "details": {
+                "size": 68579,
+                "image": {
+                  "width": 500,
+                  "height": 281
+                }
+              },
+              "fileName": "MicroStrategy.jpg",
+              "contentType": "image/jpeg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "56123d16-f498-48dc-9ea2-1f0255341d29",
+      "type": "post",
+      "sys": {
+        "createdAt": "2021-06-08T13:08:38.154Z"
+      },
+      "fields": {
+        "title": "Elon Musk: Sell all Bitcoin from Testla?",
+        "shortText": "After Tweet: Will Elon Musk finally sell all Bitcoin owned by his company Tesla?",
+        "myText": "Elon Musk again brougt a lot of trouble into the cryptocurency marked.\nHe wrote, that he does not belief in the future of Bitcoin and co.\n\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\ntempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,\nquis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo\nconsequat. Duis aute irure dolor in reprehenderit in voluptate velit esse\ncillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non\n\nproident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\ntempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,\nquis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo\nconsequat. Duis aute irure dolor in reprehenderit in voluptate velit esse\ncillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non\n\nproident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\ntempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,\nquis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo\nconsequat. Duis aute irure dolor in reprehenderit in voluptate velit esse\ncillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non\nproident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "author": "00dc580b-90a2-4ef7-a6fe-4cc764e1a564",
+        "file": {
+          "metadata": {
+            "tags": []
+          },
+          "sys": {
+            "id": "3LGwMnFOgus0pS3rRDIXH6",
+            "type": "Asset",
+            "createdAt": "2021-06-08T15:24:24.299Z",
+            "updatedAt": "2021-06-08T15:25:17.001Z",
+            "environment": {
+              "sys": {
+                "id": "master",
+                "type": "Link",
+                "linkType": "Environment"
+              }
+            },
+            "revision": 2,
+            "locale": "en-US"
+          },
+          "fields": {
+            "title": "Tesla",
+            "description": "A picture of a Tesla.",
+            "file": {
+              "url": "//images.ctfassets.net/3cstkrd87r8x/3LGwMnFOgus0pS3rRDIXH6/de0ee15331aa5dc71c278bcbb301b8fb/tesla.jpg",
+              "details": {
+                "size": 48415,
+                "image": {
+                  "width": 640,
+                  "height": 427
+                }
+              },
+              "fileName": "Tesla",
+              "contentType": "image/jpeg"
+            }
+          }
+        }
+      }
+    }
+  ]
+}
