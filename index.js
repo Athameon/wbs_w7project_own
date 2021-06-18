@@ -6,17 +6,6 @@ const app = express();
 app.use(express.json());
 app.use(cors())
 
-app.get("/", (req, res) => {
-  fs.readFile('./data.json', 'utf-8', (error, data) => {
-    if (error) {
-      return res.status(500).send('Error: Failed to read the data file.');
-    }
-    const obj = JSON.parse(data);
-    console.log(obj);
-    res.send(obj);
-  })
-});
-
 app.get("/post", (req, res) => {
   fs.readFile('./data/posts.json', 'utf-8', (error, postData) => {
     if (error) {
