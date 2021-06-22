@@ -19,7 +19,6 @@ authorRouter.get("/:name", (req, res) => {
       return res.status(500).send('Error: Failed to read the data file.');
     }
     const obj = JSON.parse(data);
-    console.log('data: ', data);
     const author = obj.items.find(element => element.name.toLowerCase() === req.params.name.toLowerCase());
     if (!author) {
       res.status(400).send("Could not find the author: " + req.params.name);
@@ -35,6 +34,30 @@ authorRouter.get("/:name", (req, res) => {
           posts: postsOfAuthor
         });
     })
+  })
+});
+
+authorRouter.put("/", (req, res) => {
+  console.log(req.body);
+  fs.readFile(__dirname + '/../data/authors.json', 'utf-8', (error, data) => {
+    if (error) {
+      return res.status(500).send('Error: Failed to read the data file.');
+    }
+    const authors = JSON.parse(data);
+    const authorIndex = authors.items.findIndex(author => author.id === req.body.id);
+    if (authorIndex.length === -1) {
+      return res.status(404).send("Could not find the author");
+    }
+    const author = authors.items[authorIndex];
+    author.name = req.body.name;
+    author.about = req.body.aboutText;
+    author.image = req.body.image;
+
+    fs.writeFile(__dirname + '/../data/authors.json', JSON.stringify(authors), (err) => {
+      if (err) 
+        return res.status(500).send("Failed to store the author in the json file.");
+    });
+    res.send(author)
   })
 });
 
