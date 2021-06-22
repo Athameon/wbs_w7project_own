@@ -28,7 +28,7 @@ authorRouter.get("/:name", (req, res) => {
       if (error) {
         return res.status(500).send('Error: Failed to read the data file.');
       }
-      const postsOfAuthor = JSON.parse(data).items.filter(item => item.fields.author === author.id);
+      const postsOfAuthor = JSON.parse(data).items.filter(item => item.author === author.id);
       res.send(
         {
           author: author,

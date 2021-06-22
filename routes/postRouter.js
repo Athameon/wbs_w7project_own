@@ -18,7 +18,7 @@ postRouter.get("/", (req, res) => {
         return res.status(500).send('Error: Failed to read the authors data file.');
       }
       postObjects.items.forEach(element => {
-        element.fields.author = JSON.parse(authorData).items.find(authorElement => authorElement.id === element.fields.author);
+        element.author = JSON.parse(authorData).items.find(authorElement => authorElement.id === element.author);
       })
       res.send(postObjects);
     })
@@ -40,7 +40,7 @@ postRouter.get("/:id", (req, res) => {
       if (error) {
         return res.status(500).send('Error: Failed to read the data file.');
       }
-      postObject.fields.author = JSON.parse(authorData).items.find(authorElement => authorElement.id === postObject.fields.author);
+      postObject.author = JSON.parse(authorData).items.find(authorElement => authorElement.id === postObject.author);
 
       res.send(postObject);
     })

@@ -19,7 +19,7 @@ wikiRouter.get("/:id", (req, res) => {
       return res.status(500).send('Error: Failed to read the data file.');
     }
     const obj = JSON.parse(data);
-    res.send(obj.items.find(element => element.fields.id === req.params.id));
+    res.send(obj.items.find(element => element.coin === req.params.id));
   })
 });
 
