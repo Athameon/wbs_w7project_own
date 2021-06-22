@@ -4,32 +4,14 @@
       "type": "author",
       "id": "00dc580b-90a2-4ef7-a6fe-4cc764e1a564",
       "name": "Eddy",
-      "profilePicture": {
-        "fields": {
-          "title": "Eddy",
-          "file": {
-            "url": "//images.ctfassets.net/3cstkrd87r8x/7lDcoa6qxKF6JBFnzxdYIk/574c4a336d670683406d7869748f2754/Eddy.jpg",
-            "fileName": "Eddy",
-            "contentType": "image/jpeg"
-          }
-        }
-      },
+      "image": "//images.ctfassets.net/3cstkrd87r8x/7lDcoa6qxKF6JBFnzxdYIk/574c4a336d670683406d7869748f2754/Eddy.jpg",
       "about": "Eddy is a very lazy dog.\n\nHe does not do anything all day, only laying around and sleeping.\nYou can find more dogs linke him just looking around."
     },
     {
       "type": "author",
       "id": "705c7220-59da-48a4-b3af-e736d54e08ce",
       "name": "Ben",
-      "profilePicture": {
-        "fields": {
-          "title": "Me with almons",
-          "file": {
-            "url": "//images.ctfassets.net/3cstkrd87r8x/dBlUa4Vp8m4tHcrq082BH/29a68a1aef63ba8c05ca1fbf93c8c2f6/16252324_10154950080628794_1977446145080701448_o.jpg",
-            "fileName": "16252324_10154950080628794_1977446145080701448_o.jpg",
-            "contentType": "image/jpeg"
-          }
-        }
-      },
+      "image": "//images.ctfassets.net/3cstkrd87r8x/dBlUa4Vp8m4tHcrq082BH/29a68a1aef63ba8c05ca1fbf93c8c2f6/16252324_10154950080628794_1977446145080701448_o.jpg",
       "about": "Ben is part of our crypt team since the foundation of the \"The Dayly Crypto\" page.\n\nHe is a Software Engineer based in Würzburg.\nYou can find him on [LinkedIn](https://www.linkedin.com/in/benjamin-nopper-340b3b12b/), [Xing](https://www.xing.com/profile/Benjamin_Nopper3/cv) and [Github](https://github.com/Athameon)"
     }
   ]
