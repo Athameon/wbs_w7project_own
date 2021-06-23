@@ -1,6 +1,6 @@
-const express = require('express');
-const fs = require('fs');
-var cors = require('cors')
+const express = require("express");
+const fs = require("fs");
+var cors = require("cors");
 
 const app = express();
 app.use(express.json());
@@ -12,7 +12,6 @@ const authorRouter = require("./routes/authorRouter");
 app.use("/author", authorRouter);
 const wikiRouter = require("./routes/wikiRouter");
 app.use("/wiki", wikiRouter);
-
 
 app.all("*", (req, res) => {
   res.redirect("/");
