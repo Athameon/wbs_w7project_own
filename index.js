@@ -18,12 +18,13 @@ app.get("/search/:key", (req, res) => {
   console.log("key: ", key);
   let searchResult = [];
 
+  let authors = null;
   fs.readFile("./data/authors.json", "utf-8", (error, data) => {
     if (error) {
       console.log(error);
       res.status(500).send("Failed to read the author data: " + error);
     }
-    const authors = JSON.parse(data).items;
+    authors = JSON.parse(data).items;
     searchResult = authors.filter((author) => {
       console.log(author.name);
       if (author.name.includes(key)) {
@@ -45,6 +46,10 @@ app.get("/search/:key", (req, res) => {
           post.title.includes(key) ||
           (post.shortText && post.shortText.includes(key))
       );
+      filteredPosts.forEach((post) => {
+        const author = authors.find((author) => author.id === post.author);
+        post.author = author;
+      });
       searchResult = [...searchResult, ...filteredPosts];
 
       fs.readFile("./data/wikis.json", "utf-8", (error, data) => {

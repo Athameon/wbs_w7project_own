@@ -26,7 +26,9 @@ authorRouter.get("/:name", (req, res) => {
       (element) => element.name.toLowerCase() === req.params.name.toLowerCase()
     );
     if (!author) {
-      res.status(400).send("Could not find the author: " + req.params.name);
+      return res
+        .status(404)
+        .send("Could not find the author: " + req.params.name);
     }
     fs.readFile(__dirname + "/../data/posts.json", "utf-8", (error, data) => {
       if (error) {
