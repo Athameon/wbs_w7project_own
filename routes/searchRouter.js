@@ -3,7 +3,7 @@ const fs = require("fs");
 const searchRouter = express.Router();
 searchRouter.use(express.json());
 
-app.get("/:key", (req, res) => {
+searchRouter.get("/:key", (req, res) => {
   const { key } = req.params;
   console.log("key: ", key);
   let searchResult = [];
